@@ -1,5 +1,4 @@
-CupcakeComposed
-===============
+# CupcakeComposed
 
 This is the composed version of the Cupcake app, which is part of the [Android Basics in Kotlin] course from Google, see [Unit 3] [Pathway 3] and the [Shared ViewModel Across Fragments] Codelab and the [Navigation and the back stack] Codelab. It shows how to incrementally introduce Compose by replacing Views in layout.xml with ComposeViews.
 
@@ -17,11 +16,11 @@ This app contains an order flow for cupcakes with options for quantity, flavor, 
 
 Environment
 
-- Kotlin 1.5.31
-- Android Studio Arctic Fox
-- Gradle Plugin 7.0.4
-- Compose 1.0.5
+- Kotlin 1.6.10
+- Android Studio Bumblebee 2021.1.1
+- Gradle Plugin 7.1.2
+- Compose 1.1.1
 
 ----
 
-updated: 2022-01-18
+updated: 2022-03-06
